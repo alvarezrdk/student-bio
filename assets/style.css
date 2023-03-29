@@ -1,0 +1,21 @@
+
+img {
+    display: block;
+    height: 200px;
+    width: 200px;
+    margin-left: 3%;
+    margin-right: auto;
+    Border: 2px solid rgb(183, 188, 194);
+    box-shadow: 2px 5px rgb(183, 188, 194);;
+}
+
+h1,ul { 
+    font-size: 40px;
+}
+
+.bio {
+    margin-left: 40px;
+    margin-right: auto;
+    width: 100%;
+    Margin: 20px auto;
+}
